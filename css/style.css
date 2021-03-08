@@ -1,0 +1,60 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+form{
+    text-align: right;
+    padding: 25px;
+    width: 700px;
+    margin: auto;
+}
+.Paragraph_1{
+    text-align: center;
+    font-weight: bold;
+    padding-top: 10px;
+    font-size: 15px;
+}
+.Paragraph_2{
+    text-align: center;
+    font-weight: bold;
+    padding-bottom: 10px;
+    font-size: 15px;
+}
+.div_1{
+    background-color: #DBE5F1;
+}
+Table{
+    border-collapse: collapse;
+    width: 700px;
+    height: 90px;
+}
+th{
+    padding-right: 5px;
+}
+td{
+    padding-right: 5px;
+}
+.Basic_1{
+    margin-top: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.role_num1{
+    position: relative;
+    top: -5px;
+    right: 5px;
+    font-weight: bold;
+}
+.role_num2{
+    position: relative;
+    top: -25px;
+    left: -350px;
+    font-weight: bold;
+}
+thead{
+    background-color: #DBE5F1;
+}
+tfoot{
+    background-color: #DBE5F1;
+    border-left: 1px solid #DBE5F1;
+}
